@@ -24,14 +24,14 @@ Your program should accept as its first argument a path to a filename. Each line
 * QueryRow 10
 * SetCol 14 0
 * QueryRow 15
-*SetRow 10 1
-*QueryCol 2
+* SetRow 10 1
+* QueryCol 2
 
 ##OUTPUT SAMPLE:
 
 For each query, output the answer of the query. E.g.
 
-*5118
-*34
-*1792
-*3571
+* 5118
+* 34
+* 1792
+* 3571
