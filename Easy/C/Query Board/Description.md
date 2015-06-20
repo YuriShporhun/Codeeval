@@ -16,14 +16,14 @@ The board's dimensions are 256x256
 
 Your program should accept as its first argument a path to a filename. Each line in this file contains an operation of a query. E.g.
 
-*SetCol 32 20
-*SetRow 15 7
-*SetRow 16 31
-*QueryCol 32
-*SetCol 2 14
-*QueryRow 10
-*SetCol 14 0
-*QueryRow 15
+* SetCol 32 20
+* SetRow 15 7
+* SetRow 16 31
+* QueryCol 32
+* SetCol 2 14
+* QueryRow 10
+* SetCol 14 0
+* QueryRow 15
 *SetRow 10 1
 *QueryCol 2
 
