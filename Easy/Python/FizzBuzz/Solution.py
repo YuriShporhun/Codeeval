@@ -28,6 +28,6 @@ def main():
 
             sys.stdout.write(str(number) + ' ')
 
-        print '' fuzzbuzz
+        print ''
 
 main()
